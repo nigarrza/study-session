@@ -1,0 +1,11 @@
+h1{
+    color: fuchsia;
+}
+button{
+    background-color: rgb(61, 57, 57);
+    color: turquoise;
+    border:1px dashed fuchsia;
+    border-radius: 50px;
+    width: 200px;
+    height: 60px;
+}
